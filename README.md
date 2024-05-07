@@ -18,3 +18,5 @@ This is a straightforward dashboard that visualizes metrics from an Excel report
 6. Employees Leaving to Work Abroad for the Same Company: Some employees may have chosen to work abroad for the same company, possibly for career advancement or international exposure.
 ## Conclusion
 Understanding these detailed reasons for attrition can help MX identify specific areas for improvement in management practices, employee development programs, and the overall work environment to enhance employee retention and satisfaction.
+# Dashboard
+![Excel](https://github.com/elizabethwanjiku703/MX-Attrition-HR-Analytics---Excel-Dashboard/blob/main/Excel.jpg)
