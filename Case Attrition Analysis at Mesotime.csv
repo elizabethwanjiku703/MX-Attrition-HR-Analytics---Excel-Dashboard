@@ -1,0 +1,101 @@
+﻿D,Position,Level,Last drawn salary per anum,Gender,Age,Performance Rating Y 2017,Newcomers,Internal years of exp,External years of exp,Total years of exp,entitled leaves,Month of leaving,Reason for leaving,Vol/InVol,Function,No of Sick leaves from 01.04.2016 till the date they left
+AAA_1,Trainee,1,104087,Female,20,NA,New,10 months,0.00,0.00,15.00,September 2016,Better opportunity,Vol,SCM,4
+AAA_10,Trainee,1,107493,Male,22,NA,New,3 months,0.00,0.00,30.00,March 2017,Background Check Failure,InVol,Sales & Promotion,2
+AAA_100,Senior Manager,6,3185934,Male,44,,Old,9,13,22.00,7.50,June 2016,Relation with superior,Vol,Quality Assurance & Control,26
+AAA_11,Trainee,1,109730,Male,19,NA,New,3 months,0.00,0.00,22.50,December 2016,Asked to Leave: Ethics code violation,InVol,Research & Development,23
+AAA_12,Trainee,1,108512,Male,24,NA,New,3 months,0.00,0.00,30.00,March 2017,Background Check Failure,InVol,Quality Assurance & Control,4
+AAA_13,Trainee,1,103786,Male,19,NA,New,5 months,0.00,0.00,17.50,October 2016,Background Check Failure,InVol,Admin,3
+AAA_14,Trainee,1,107029,Male,20,NA,New,4 months,0.00,0.00,17.50,October 2016,Further Studies,Vol,Warehouse,2
+AAA_15,Trainee,1,107679,Male,19,NA,New,11 months,0.00,0.00,15.00,September 2016,Family Reason,Vol,HR,20
+AAA_16,Trainee,1,105218,Female,18,NA,New,11 months,0.00,0.00,20.00,November 2016,Family Reason,Vol,Warehouse,17
+AAA_17,Trainee,1,108739,Male,23,NA,New,9 months,0.00,0.00,27.50,February 2017,Family Reason,Vol,Quality Assurance & Control,27
+AAA_18,Trainee,1,101513,Female,18,NA,New,1 month,0.00,0.00,5,May 2016,Family Reason,Vol,Sales & Promotion,1
+AAA_19,Trainee,1,104251,Male,22,NA,New,3 months,0.00,0.00,30.00,March 2017,Background Check Failure,InVol,Production,1
+AAA_2,Director,7,11085665,Male,46,NA,Old,1,23,24.00,27.50,February 2017,Relation with superior,Vol,Finance,9
+AAA_20,Director,8,11336399,Male,48,A+,Old,26,1,27.00,10.00,July 2016,Moving abroad within the company,Others,Sales & Promotion,5
+AAA_21,Director,7,10669222,Male,47,A+,Old,15,10,25.00,25.00,January 2017,Better opportunity,Vol,Strategy,29
+AAA_22,Program Director,7,10125596,Male,55,,Old,33,2,35.00,2.50,April 2016,Death,Others,Research & Development,1
+AAA_23,Director,7,10653099,Male,57,A,Old,21,14,35.00,22.50,December 2016,Better Salary Hike,Vol,Strategy,18
+AAA_24,Director,8,11236399,Female,58,A,Old,7,28,35.00,20.00,November 2016,Retirement,Others,Strategy,27
+AAA_25,Director,8,11450948,Male,56,Z,Old,17,17,34.00,30.00,March 2017,Poor Performance,InVol,Strategy,23
+AAA_26,Director,7,11084645,Male,47,,Old,12,13,25.00,12.50,August 2016,Better opportunity,Vol,HR,15
+AAA_27,Executive,4,309836,Male,31,A+,Old,5,4,9.00,22.50,December 2016,Relation with superior,Vol,Finance,3
+AAA_28,Data Scientist,4,383488,Male,33,,Old,4,7,11.00,5,May 2016,Better opportunity,Vol,Research & Development,21
+AAA_29,Principal Biostatistician,6,3382126,Male,45,NA,Old,1.00,22,23.00,12.50,August 2016,Limited growth,Vol,IT,5
+AAA_3,Manager,5,1801155,Female,27,NA,Old,1.00,4,5.00,30.00,March 2017,Job dissatisfaction,Vol,Legal,28
+AAA_30,Analyst,3,278105,Male,26,A+,Old,4,0,4.00,22.50,December 2016,Relation with superior,Vol,HR,30
+AAA_31,Analyst,3,241606,Female,38,,Old,5,11,16.00,10.00,July 2016,Relation with superior,Vol,Warehouse,9
+AAA_32,Analyst,3,241602,Female,26,,Old,3,3,6.00,2.50,April 2016,Death,Others,Research & Development,0
+AAA_33,Executive,4,399094,Male,44,,Old,2,20,22.00,17.50,October 2016,Better opportunity,Vol,IT,10
+AAA_34,Executive,4,388864,Male,40,A,Old,2,16,18.00,22.50,December 2016,Limited growth,Vol,Sales & Promotion,28
+AAA_35,Executive,4,316542,Male,39,,Old,3,16,19.00,15.00,September 2016,Relation with superior,Vol,Finance,11
+AAA_36,Executive,4,334005,Female,33,A,Old,2,10,12.00,25.00,January 2017,Job dissatisfaction,Vol,Production,27
+AAA_37,Junior Executive,2,180170,Male,44,NA,Old,1.00,21,22.00,22.50,December 2016,Bored and unchallenged by the work itself,Vol,Legal,20
+AAA_38,Executive,4,396664,Female,34,Z,Old,2,11,13.00,20.00,November 2016,Poor Performance,InVol,Quality Assurance & Control,10
+AAA_39,Executive,4,305657,Male,32,A+,Old,8,2,10.00,22.50,December 2016,Relation with superior,Vol,Sales & Promotion,4
+AAA_4,Director,7,10243421,Male,49,,Old,27,0,27.00,7.50,June 2016,Limited growth,Vol,Strategy,17
+AAA_40,Executive,4,309839,Male,27,A,Old,1,4,5.00,12.50,August 2016,Asked to Leave: Ethics code violation,InVol,Internal Audit,26
+AAA_41,Executive,4,339549,Male,29,,Old,7,0,7.00,10.00,July 2016,Bored and unchallenged by the work itself,Vol,Production,10
+AAA_42,Executive,4,347559,Male,42,,Old,6,14,20.00,10.00,July 2016,Relation with superior,Vol,Production,13
+AAA_43,Executive,4,323011,Female,36,,Old,3,11,14.00,17.50,October 2016,Relation with superior,Vol,IT,8
+AAA_44,Executive,4,378917,Female,29,,Old,2,5,7.00,12.50,August 2016,Did not return from pregnancy,Vol,Production,21
+AAA_45,Analyst,3,282963,Male,36,NA,New,1 month,13,13.00,22.50,December 2016,Better Salary Hike,Vol,Research & Development,30
+AAA_46,Executive,4,292695,Male,26,,Old,3,1,4.00,10.00,July 2016,Family Reason,Vol,Warehouse,17
+AAA_47,Executive,4,298104,Male,36,NA,New,7 months,13,13.00,22.50,December 2016,Background Check Failure,InVol,SCM,6
+AAA_48,Executive,4,309840,Male,58,A,Old,4,1,5.00,10.00,July 2016,Retirement,Others,Production,26
+AAA_49,Executive,4,326997,Male,39,Z,Old,4,13,17.00,12.50,August 2016,Poor Performance,InVol,Sales & Promotion,15
+AAA_5,Senior Scientist,5,2310462,Female,27,,Old,5,0,5.00,10.00,July 2016,Further Studies,Vol,Admin,20
+AAA_50,Analyst,3,282872,Female,36,A+,Old,3,11,14.00,12.50,August 2016,Moving abroad within the company,Others,Research & Development,24
+AAA_51,Scientist,4,332675,Female,30,A+,Old,3,5,8.00,25.00,January 2017,Relation with superior,Vol,Research & Development,0
+AAA_52,Executive,4,346408,Male,45,NA,Old,1.00,22,23.00,17.50,October 2016,Bored and unchallenged by the work itself,Vol,SCM,25
+AAA_53,Executive,4,309838,Male,37,Z,Old,6,9,15.00,12.50,August 2016,Poor Performance,InVol,Production,28
+AAA_54,Manager,5,2017845,Male,27,A,Old,3,2,5.00,2.50,April 2016,Relation with superior,Vol,Sales & Promotion,7
+AAA_55,Manager,5,1924108,Male,27,NA,New,2 months,4,4.00,7.50,June 2016,Further Studies,Vol,Production,14
+AAA_56,Manager,5,2006389,Male,35,A,Old,7,6,13.00,2.50,April 2016,Relation with superior,Vol,Sales & Promotion,26
+AAA_57,Manager,5,1800000,Male,27,Z,Old,3,4,7.00,17.50,October 2016,Poor Performance,InVol,Finance,0
+AAA_58,Manager,5,1973899,Male,38,A,Old,2,14,16.00,20.00,November 2016,Family Reason,Vol,Sales & Promotion,8
+AAA_59,Manager,5,1805256,Male,28,A,Old,5,1,6.00,17.50,October 2016,Asked to Leave: Ethics code violation,InVol,SCM,1
+AAA_6,Trainee,1,102299,Male,19,NA,New,3 months,0.00,0.00,30.00,March 2017,Family Reason,Vol,SCM,3
+AAA_60,Manager,5,1830192,Male,25,,Old,1,2,3.00,22.50,December 2016,Further Studies,Vol,Quality Assurance & Control,22
+AAA_61,Scientist,4,882174,Female,31,A+,Old,3,8,11.00,20.00,November 2016,Relation with superior,Vol,Warehouse,28
+AAA_62,Manager,5,1855061,Male,32,A,Old,2,8,10.00,5,May 2016,Bored and unchallenged by the work itself,Vol,Sales & Promotion,17
+AAA_63,Manager,5,1871877,Female,25,Z,Old,3,0,3.00,10.00,July 2016,Poor Performance,InVol,Sales & Promotion,29
+AAA_64,Scientist,4,882101,Male,31,,Old,1,8,9.00,2.50,April 2016,Death,Others,Research & Development,15
+AAA_65,Scientist,4,882097,Male,29,A,Old,3,6,9.00,12.50,August 2016,Better opportunity,Vol,Sales & Promotion,4
+AAA_66,Manager,5,1923015,Male,32,A,Old,5,5,10.00,12.50,August 2016,Relation with superior,Vol,Sales & Promotion,24
+AAA_67,Scientist,4,882142,Female,43,NA,Old,1.00,20,21.00,20.00,November 2016,Job dissatisfaction,Vol,Internal Audit,6
+AAA_68,Scientist,4,882151,Male,28,Z,Old,4,2,6.00,25.00,January 2017,Poor Performance,InVol,Warehouse,16
+AAA_69,Manager,5,1939945,Female,27,A+,Old,5,0,5.00,5,May 2016,Did not return from pregnancy,Vol,Warehouse,24
+AAA_7,Analyst,3,241701,Female,24,A,Old,2,0.00,2.00,27.50,February 2017,Further Studies,Vol,Warehouse,23
+AAA_70,Scientist,4,882052,Female,30,A+,Old,2,6,8.00,25.00,January 2017,Did not return from pregnancy,Vol,Research & Development,28
+AAA_71,Manager,5,2089906,Female,31,,Old,1,8,9.00,15.00,September 2016,Background Check Failure,InVol,Sales & Promotion,0
+AAA_72,Scientist,4,882136,Male,31,Z,Old,3,6,9.00,25.00,January 2017,Poor Performance,InVol,Sales & Promotion,21
+AAA_73,Biostatistician,4,2882052,Male,51,A+,Old,9,20,29.00,22.50,December 2016,Relation with superior,Vol,IT,26
+AAA_74,Senior Manager,6,2671801,Male,56,,Old,5,29,34.00,5,May 2016,Death,Others,Production,0
+AAA_75,Senior Manager,6,3993422,Male,55,NA,Old,1.00,32,33.00,5,May 2016,Bored and unchallenged by the work itself,Vol,Finance,14
+AAA_76,Senior Manager,6,4088199,Male,46,Z,Old,6,18,24.00,22.50,December 2016,Poor Performance,InVol,SCM,7
+AAA_77,Senior Manager,6,3902453,Male,38,,Old,2,14,16.00,2.50,April 2016,Better opportunity,Vol,HR,28
+AAA_78,Senior Manager,6,4363368,Male,38,A,Old,2,15,17.00,12.50,August 2016,Relation with superior,Vol,Sales & Promotion,24
+AAA_79,Senior Scientist,5,4202992,Male,41,NA,Old,1.00,18,19.00,17.50,October 2016,Limited growth,Vol,Research & Development,23
+AAA_8,Analyst,3,241601,Female,22,A,Old,3,0.00,3.00,27.50,February 2017,Further Studies,Vol,Internal Audit,6
+AAA_80,Senior Legal Counsel,5,3934159,Male,44,A+,Old,11,11,22.00,22.50,December 2016,Relation with superior,Vol,Legal,14
+AAA_81,Senior Manager,6,3367342,Male,44,Z,Old,7,15,22.00,17.50,October 2016,Poor Performance,InVol,Sales & Promotion,0
+AAA_82,Senior Manager,6,3020889,Male,40,A+,Old,6,12,18.00,25.00,January 2017,Job dissatisfaction,Vol,SCM,14
+AAA_83,Senior Manager,6,4119350,Male,56,,Old,10,24,34.00,17.50,October 2016,Death,Others,HR,13
+AAA_84,Senior Manager,6,3492099,Male,49,A,Old,2,25,27.00,2.50,April 2016,Job dissatisfaction,Vol,SCM,23
+AAA_85,Senior Scientist,5,2685053,Male,48,,Old,11,15,26.00,15.00,September 2016,Better Salary Hike,Vol,Admin,10
+AAA_86,Senior Scientist,5,2506856,Female,41,,Old,4,15,19.00,2.50,April 2016,Death,Others,Research & Development,17
+AAA_87,Senior Scientist,5,3017764,Male,44,A,Old,6,16,22.00,27.50,February 2017,Relation with superior,Vol,Admin,16
+AAA_88,Senior Manager,6,4117141,Male,42,Z,Old,5,15,20.00,2.50,April 2016,Poor Performance,InVol,Sales & Promotion,19
+AAA_89,Manager,5,2184662,Female,41,A+,Old,7,14,21.00,15.00,September 2016,Relation with superior,Vol,SCM,26
+AAA_9,Analyst,3,241607,Male,21,NA,New,1 month,0.00,0.00,10.00,July 2016,Further Studies,Vol,HR,24
+AAA_90,Senior Scientist,5,2577709,Female,51,NA,Old,1.00,28,29.00,22.50,December 2016,Relation with superior,Vol,Research & Development,12
+AAA_91,Senior Scientist,5,3861321,Female,49,A+,Old,8,19,27.00,20.00,November 2016,Relation with superior,Vol,Internal Audit,21
+AAA_92,Senior Manager,6,3233027,Male,58,A+,Old,12,24,36.00,10.00,July 2016,Retirement,Others,Production,6
+AAA_93,Senior Manager,6,2831447,Male,38,NA,Old,1.00,15,16.00,5,May 2016,Relation with superior,Vol,IT,17
+AAA_94,Senior Manager,6,3226038,Male,52,A,Old,2,29,31.00,25.00,January 2017,Bored and unchallenged by the work itself,Vol,Sales & Promotion,26
+AAA_95,Senior Manager,6,3089917,Female,26,,Old,3,27,30.00,10.00,July 2016,Did not return from pregnancy,Vol,HR,30
+AAA_96,Senior Manager,6,3766768,Male,51,A,Old,3,26,29.00,22.50,December 2016,Job dissatisfaction,Vol,Finance,9
+AAA_97,Senior Legal Counsel,5,4079478,Male,37,,Old,8,12,20.00,2.50,April 2016,Better opportunity,Vol,Legal,5
+AAA_98,Senior Manager,6,4036894,Male,51,,Old,8,21,29.00,30.00,March 2017,Bored and unchallenged by the work itself,Vol,Finance,23
+AAA_99,Senior Manager,6,3444157,Male,48,,Old,10,18,28.00,7.50,June 2016,Job dissatisfaction,Vol,SCM,13
