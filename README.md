@@ -1,1 +1,2 @@
-# MX-Attrition-HR-Analytics---Excel-Dashboard
+# MX-Attrition Dashboard
+This is a straightforward dashboard that visualizes metrics from an Excel report related to Attrition Analysis at MX. The case was written by Rupali Chaudhuri, under the guidance of Debapratim Purkayastha at IBS Hyderabad. It was developed based on generalized experience and is intended to serve as a basis for classroom discussion, rather than to demonstrate effective or ineffective management practices.
